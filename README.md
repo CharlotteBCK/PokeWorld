@@ -14,6 +14,8 @@ PokeWorld est une application front-end réalisée en HTML, CSS et JavaScript. E
 - **Animation Pokéball** : Une animation de Pokéball apparaît lorsque l'application est chargée, ajoutant une touche dynamique à l'interface.
 - **Interface responsive** : L'application est conçue pour être utilisée sur des appareils mobiles et de bureau.
 
+## Structure du projet
+
 PokeWorld/
 ├── assets/
 │   └── nuages.jpg            # Image d'arrière-plan utilisée dans le projet
