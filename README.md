@@ -14,6 +14,15 @@ PokeWorld est une application front-end réalisée en HTML, CSS et JavaScript. E
 - **Animation Pokéball** : Une animation de Pokéball apparaît lorsque l'application est chargée, ajoutant une touche dynamique à l'interface.
 - **Interface responsive** : L'application est conçue pour être utilisée sur des appareils mobiles et de bureau.
 
+PokeWorld/
+├── assets/
+│   └── nuages.jpg            # Image d'arrière-plan utilisée dans le projet
+├── style.css                 # Fichier de style pour la mise en forme de l'application
+├── animations.css            # Fichier CSS pour les animations (Pokéball, etc.)
+├── script.js                 # Script JavaScript contenant la logique de l'application
+├── API.html                  # Fichier HTML principal contenant la structure de la page
+├── README.md                 # Ce fichier
+
 ## Technologies utilisées
 
 Ce projet utilise les technologies suivantes :
@@ -35,11 +44,4 @@ Dans votre terminal, exécutez la commande suivante pour cloner le dépôt :
 ```bash
 git clone https://github.com/CharlotteBCK/PokeWorld.git
 
-PokeWorld/
-├── assets/
-│   └── nuages.jpg            # Image d'arrière-plan utilisée dans le projet
-├── style.css                 # Fichier de style pour la mise en forme de l'application
-├── animations.css            # Fichier CSS pour les animations (Pokéball, etc.)
-├── script.js                 # Script JavaScript contenant la logique de l'application
-├── API.html                  # Fichier HTML principal contenant la structure de la page
-├── README.md                 # Ce fichier
+
